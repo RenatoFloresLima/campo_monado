@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "campo_minado",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "campo_minado (Flutter)",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
