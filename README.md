@@ -1,16 +1,7 @@
 # campo_minado
 
-A new Flutter project.
+Um projeto de estudo, para montar um simples jogo de campo minado utilizando o basico do Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esse é um projeto de teste, onde utilizei apenas o basico do Flutter/Dart, com o objetivo de treinar alguns conceitos, também utilizei o VsCode para desenvolver esse projeto, para testar meu desempenho, uma vez que sempre utilizei o Android Studio, também utilizei apenas linhas de comando para criar o projeto e fazer suas interações.
